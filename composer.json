@@ -21,7 +21,7 @@
     "eveseat/eveapi": "^5.0",
     "busa-git/seat-services": "^5.0",
     "busa-git/seat-web": "^5.0",
-    "darkaonline/l5-swagger": "^6.0",
+    "busa-git/l5-swagger": "^6.0",
     "zircote/swagger-php": "3.*"
   },
   "extra": {
