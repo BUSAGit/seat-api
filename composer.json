@@ -1,5 +1,5 @@
 {
-  "name": "eveseat/api",
+  "name": "busa-git/seat-api",
   "description": "SeAT API Interface",
   "license": "GPL-2.0",
   "authors": [
@@ -19,8 +19,8 @@
     "php": "^8.1",
     "laravel/framework": "^10.0",
     "eveseat/eveapi": "^5.0",
-    "eveseat/services": "^5.0",
-    "eveseat/web": "^5.0",
+    "busa-git/seat-services": "^5.0",
+    "busa-git/seat-web": "^5.0",
     "darkaonline/l5-swagger": "^8.0"
   },
   "extra": {
